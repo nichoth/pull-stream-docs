@@ -70,7 +70,7 @@
   "dependencies": {
     "array-find": "^1.0.0",
     "hash-match": "^1.0.2",
-    "highlight.js": "^9.4.0",
+    "highlight.js": "^11.10.0",
     "insert-css": "^0.2.0",
     "inu": "^2.3.1",
     "normalize.css": "^4.1.1",
